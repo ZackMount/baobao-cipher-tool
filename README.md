@@ -2,7 +2,7 @@
 
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![License](https://img.shields.io/github/license/ZackMount/baobao-cipher-tool?style=for-the-badge)
 
-一个将任意文本编码/解码为中“宝宝”文案风格的工具。本项目是 `宝宝语` 编码规范的 TypeScript 前端实现。
+一个将任意文本编码/解码为“宝宝”文案风格的工具。本项目是 `宝宝语` 编码规范的 TypeScript 前端实现。
 
 ## 线上体验
 
@@ -29,12 +29,12 @@
 ## 功能特性
 
 * **文本编码**：将任何UTF-8字符串转化为“宝宝曰”密文。
-* **文本解码**：从“宝宝曰”密文中精准还原原始内容。
+* **文本解码**：从“宝宝语”密文中精准还原原始内容。
 * **内置校验和**：利用开头的“啊”字个数作为Checksum，能快速校验密文的完整性，防止内容被篡改。
 * **纯前端实现**：所有操作均在浏览器本地完成，保护用户隐私。
 * **TypeScript 编写**：代码类型安全，结构清晰，易于维护和二次开发。
 
-## “宝宝曰”编码标准 
+## “宝宝语”编码标准 
 
 本工具遵循的编码规范：
 
