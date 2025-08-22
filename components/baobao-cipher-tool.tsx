@@ -73,7 +73,7 @@ export function BaoBaoCipherTool() {
         <div className="text-center mb-16">
           <div className="flex items-center justify-center gap-4 mb-6">
             <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-600 via-blue-500 to-cyan-500 bg-clip-text text-transparent">
-              宝宝加解密在线工具
+              宝宝语加解密在线工具
             </h1>
           </div>
           <p className="text-xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
@@ -237,7 +237,7 @@ export function BaoBaoCipherTool() {
               </div>
 
               <div className="text-center space-y-3">
-                <h3 className="text-xl font-bold text-slate-800">宝宝加解密在线工具</h3>
+                <h3 className="text-xl font-bold text-slate-800">宝宝语加解密在线工具</h3>
                 <p className="text-slate-600 max-w-md leading-relaxed">
                    仅供娱乐，不代表本人立场。
                 </p>
